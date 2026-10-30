@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Roberto 👋
 
-<!--
-**rev-robertofaria/rev-robertofaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pastor at **Grace Of God Pentecostal Church UK** (Peterborough and Boston) and UK sole trader.
+I build small web tools that solve real problems at church, at home and in my small business:
+they run in the browser and keep your data on your own computer.
 
-Here are some ideas to get you started:
+## Projects
+| Project | What it does |
+|---|---|
+| [Markdown.md](https://rev-robertofaria.github.io/markdown-editor/) | Markdown reader and editor. Opens folders and Obsidian vaults; files never leave your browser. Works offline. |
+| [eBay UK Fee Calculator](https://rev-robertofaria.github.io/ebay-uk-fee-calculator/) | Fees and profit for private and business sellers on eBay UK, in GBP. Works offline. |
+| [Tempo UK](https://rev-robertofaria.github.io/tempo-uk/) | Weather forecast for Peterborough and Boston. Installable on phone and computer. |
+| [Hermes Memory 2200](https://github.com/rev-robertofaria/hermes-memory-2200) | Persistent memory system for AI agents. |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm exploring
+- AI agents on small home servers (Raspberry Pi 5, ZimaBoard)
+- 3D printing (Bambu Lab) for handmade Christian gifts
+- Building software with AI pair-programming
+
+## Principles
+- **Privacy first:** no tracking, no accounts, your files stay with you
+- **Simple:** one HTML file whenever possible
+
+*Português do Brasil e English.*
