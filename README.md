@@ -1,6 +1,6 @@
 # Hi, I'm Roberto 👋
 
-Pastor at **Grace Of God Pentecostal Church UK** (Peterborough and Boston) and UK sole trader.
+Senior Pastor at **Grace Of God Church** (Peterborough and Boston) and UK sole trader.
 I build small web tools that solve real problems at church, at home and in my small business:
 they run in the browser and keep your data on your own computer.
 
@@ -13,12 +13,12 @@ they run in the browser and keep your data on your own computer.
 | [Hermes Memory 2200](https://github.com/rev-robertofaria/hermes-memory-2200) | Persistent memory system for AI agents. |
 
 ## What I'm exploring
-- AI agents on small home servers (Raspberry Pi 5, ZimaBoard)
-- 3D printing (Bambu Lab) for handmade Christian gifts
+- AI agents on small home servers (Raspberry Pi 5, ZimaBoard2 1664 16G)
+- 3D printing (Bambu Lab A2L) for handmade gifts
 - Building software with AI pair-programming
 
 ## Principles
 - **Privacy first:** no tracking, no accounts, your files stay with you
 - **Simple:** one HTML file whenever possible
 
-*Português do Brasil e English.*
+*Português Brasil, Spanish & English.*
